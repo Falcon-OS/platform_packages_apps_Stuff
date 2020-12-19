@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- AOSiP dashboard -->
-    <string name="owlsnest_title">OwlsNest</string>
+    <string name="owlsnest_title">Stuff</string>
     <string name="aosip_title">AOSiP Settings</string>
 
     <!-- Bottom Tabs -->
@@ -108,7 +108,7 @@
     <string name="pulse_settings">Pulse</string>
 
     <!-- About AOSiP -->
-    <string name="aosip_about_title">About AOSiP</string>
+<!--    <string name="aosip_about_title">About Falcon</string>
     <string name="aosip_about_summary">A little info about the team</string>
     <string name="aosip_telegram_title">AOSiP Telegram Community</string>
     <string name="aosip_telegram_summary"><a href="https://t.me/s/aosip">Join our wonderful community here!</a></string>
@@ -131,9 +131,9 @@
     <string name="about_maintainer">Maintainer</string>
     <string name="aosip_about_maintainer">The maintainer for your device is</string>
     <string name="aosip_about_maintainer_summary" translatable="false">Kronic the Owl</string>
-
+-->
     <!-- AOSiP device info settings -->
-    <string name="aosip_version">AOSiP version</string>
+    <string name="aosip_version">Falcon version</string>
     <string name="aosip_version_default">Unknown</string>
 
     <!-- Reusable strings -->
