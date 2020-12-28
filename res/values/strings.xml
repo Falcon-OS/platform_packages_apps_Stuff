@@ -18,7 +18,7 @@
 
     <!-- AOSiP dashboard -->
     <string name="owlsnest_title">Stuff</string>
-    <string name="aosip_title">AOSiP Settings</string>
+    <string name="aosip_title">Falcon Settings</string>
 
     <!-- Bottom Tabs -->
     <string name="navigation_actions_title">Actions</string>
@@ -260,5 +260,20 @@
     <!-- Global Actions -->
     <string name="powermenu_advanced_reboot_title">Advanced reboot</string>
     <string name="powermenu_advanced_reboot_summary">Enables access to recovery and bootloader</string>
+
+    <!--  Volume Panel Plugin   -->
+   <string name="volume_panel">Volume Panel Style</string>
+   <string name="volume_panel_stock">Stock</string>
+   <string name="volume_panel_aosp">AOSP</string>
+   <string name="volume_panel_compact">Compact</string>
+   <string name="volume_panel_oreo">Oreo</string>
+   <string name="volume_panel_tiled">Tiled</string>
+
+   <!--  Volume Panel Plugin Values   -->
+   <string name="volume_panel_stock_val">com.android.systemui.volume</string>
+   <string name="volume_panel_aosp_val">co.potatoproject.plugin.volume.aosp</string>
+   <string name="volume_panel_compact_val">co.potatoproject.plugin.volume.compact</string>
+   <string name="volume_panel_oreo_val">co.potatoproject.plugin.volume.oreo</string>
+   <string name="volume_panel_tiled_val">co.potatoproject.plugin.volume.tiled</string>
 
 </resources>
