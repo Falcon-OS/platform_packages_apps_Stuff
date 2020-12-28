@@ -140,50 +140,50 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/joshTitle"
+                android:id="@+id/zabukaTitle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
                 android:layout_marginTop="12dp"
-                android:text="@string/aosip_about_josh"
+                android:text="@string/aosip_about_zabuka"
                 android:textAppearance="@style/TextAppearance.AppCompat.Title"
                 android:textSize="15sp" />
 
             <TextView
-                android:id="@+id/joshSummary"
+                android:id="@+id/zabukaSummary"
                 android:layout_width="260dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
-                android:text="@string/aosip_about_josh_summary"
+                android:text="@string/aosip_about_zabuka_summary"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:textSize="14sp" />
 
             <TextView
-                android:id="@+id/akhilTitle"
+                android:id="@+id/arunTitle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
                 android:layout_marginTop="30dp"
-                android:text="@string/aosip_about_akhil"
+                android:text="@string/aosip_about_arun"
                 android:textAppearance="@style/TextAppearance.AppCompat.Title"
                 android:textSize="15sp" />
 
             <TextView
-                android:id="@+id/akhilSummary"
+                android:id="@+id/arunSummary"
                 android:layout_width="260dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
-                android:text="@string/aosip_about_akhil_summary"
+                android:text="@string/aosip_about_arun_summary"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:textSize="14sp" />
 
             <TextView
-                android:id="@+id/anirudhTitle"
+                android:id="@+id/bruceTitle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
                 android:layout_marginTop="30dp"
-                android:text="@string/aosip_about_anirudh"
+                android:text="@string/aosip_about_bruce"
                 android:textAppearance="@style/TextAppearance.AppCompat.Title"
                 android:textSize="15sp" />
 
@@ -193,44 +193,6 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
                 android:text="@string/aosip_about_anirudh_summary"
-                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-                android:textSize="14sp" />
-
-            <TextView
-                android:id="@+id/harshTitle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="25dp"
-                android:layout_marginTop="30dp"
-                android:text="@string/aosip_about_harsh"
-                android:textAppearance="@style/TextAppearance.AppCompat.Title"
-                android:textSize="15sp" />
-
-            <TextView
-                android:id="@+id/harshSummary"
-                android:layout_width="260dp"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="25dp"
-                android:text="@string/aosip_about_harsh_summary"
-                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-                android:textSize="14sp" />
-
-            <TextView
-                android:id="@+id/calebTitle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="25dp"
-                android:layout_marginTop="30dp"
-                android:text="@string/aosip_about_caleb"
-                android:textAppearance="@style/TextAppearance.AppCompat.Title"
-                android:textSize="15sp" />
-
-            <TextView
-                android:id="@+id/calebSummary"
-                android:layout_width="260dp"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="25dp"
-                android:text="@string/aosip_about_caleb_summary"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:textSize="14sp" />
 
