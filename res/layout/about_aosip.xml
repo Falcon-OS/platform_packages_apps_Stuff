@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2020 AOSiP
-     Author: calebcabob <calphonic@gmail.com>
+     Copyright (C) 2020 FalconOS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -40,13 +39,6 @@
                 android:text="@string/aosip_about_title"
                 android:textAppearance="@style/TextAppearance.AppCompat.Title"
                 android:textSize="18sp" />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="25dp"
-                android:src="@drawable/ic_about_aosip" />
 
             <TextView
                 android:id="@+id/infoCat"
