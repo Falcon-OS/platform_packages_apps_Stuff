@@ -180,11 +180,11 @@
                 android:textSize="15sp" />
 
             <TextView
-                android:id="@+id/anirudhSummary"
+                android:id="@+id/bruceSummary"
                 android:layout_width="260dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="25dp"
-                android:text="@string/aosip_about_anirudh_summary"
+                android:text="@string/aosip_about_bruce_summary"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:textSize="14sp" />
 
