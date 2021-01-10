@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2015-2020 AOSiP
+<!-- Copyright (C) 2015-2020 FalconOS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@
     <color name="theme_accent">@*android:color/accent_device_default_light</color>
     <color name="preference_background_color">@*android:color/accent_device_default_light</color>
 
-    <!-- OwlsNest icon background colors -->
+    <!-- Falcon icon background colors -->
     <color name="owlsnest_animations_background">@*android:color/accent_device_default_light</color>
     <color name="owlsnest_battery_background">@*android:color/accent_device_default_light</color>
     <color name="owlsnest_changelog_background">@*android:color/accent_device_default_light</color>

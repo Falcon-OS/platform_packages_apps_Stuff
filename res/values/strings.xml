@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 AOSiP
+     Copyright (C) 2016-2020 FalconOS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- AOSiP dashboard -->
-    <string name="owlsnest_title">Stuff</string>
+    <!-- Falcon dashboard -->
+    <string name="owlsnest_title">FalconOS</string>
     <string name="aosip_title">Falcon Settings</string>
 
     <!-- Bottom Tabs -->
@@ -111,7 +111,7 @@
     <string name="power_menu_category">Power menu</string>
     <string name="pulse_settings">Pulse</string>
 
-    <!-- About AOSiP -->
+    <!-- About Falcon -->
     <string name="aosip_about_title">About Falcon</string>
     <string name="aosip_about_summary">A little info about the team</string>
     <string name="aosip_telegram_title">Falcon Telegram Community</string>
@@ -127,12 +127,12 @@
     <string name="aosip_about_arun" translatable="false">Arun GZ</string>
     <string name="aosip_about_arun_summary" translatable="false">Assistant Drep</string>
     <string name="aosip_about_bruce" translatable="false">Bruce Tech</string>
-    <string name="aosip_about_anirudh_summary" translatable="false">Animation Boi</string>
+    <string name="aosip_about_bruce_summary" translatable="false">Animation Boi</string>
     <string name="about_maintainer">Maintainer</string>
     <string name="aosip_about_maintainer">The maintainer for your device is</string>
     <string name="aosip_about_maintainer_summary" translatable="false">FalconOS by Team Falcon</string>
--->
-    <!-- AOSiP device info settings -->
+
+    <!-- Falcon device info settings -->
     <string name="aosip_version">Falcon version</string>
     <string name="aosip_version_default">Unknown</string>
 
