@@ -217,23 +217,6 @@
         <item>space;space;left,back,home,recent,right</item>
     </string-array>
 
-    <!--  Volume Panel  -->
-    <string-array name="volume_panel_entries">
-        <item>@string/volume_panel_stock</item>
-        <item>@string/volume_panel_aosp</item>
-        <item>@string/volume_panel_compact</item>
-        <item>@string/volume_panel_oreo</item>
-        <item>@string/volume_panel_tiled</item>
-    </string-array>
-
-    <string-array name="volume_panel_values" translatable="false">
-        <item>@string/volume_panel_stock_val</item>
-        <item>@string/volume_panel_aosp_val</item>
-        <item>@string/volume_panel_compact_val</item>
-        <item>@string/volume_panel_oreo_val</item>
-        <item>@string/volume_panel_tiled_val</item>
-    </string-array>
-
     <!-- FOD Recognizing fingerprint animations -->
     <string-array  name="fod_recognizing_animation_entries" translatable="false">
         <item>@string/fod_recog_animation_miui_normal</item> 
