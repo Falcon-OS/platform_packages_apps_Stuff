@@ -25,6 +25,8 @@ import android.provider.Settings;
 import androidx.preference.Preference;
 import androidx.preference.SwitchPreference;
 
+import com.android.settings.gestures.SwipeToScreenshotGestureSettings;
+import com.android.settings.gestures.SwipeToScreenshotPreferenceController
 import com.android.internal.logging.nano.MetricsProto;
 import com.android.settings.gestures.GestureSettings;
 import com.android.settings.R;
