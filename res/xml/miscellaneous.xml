@@ -18,4 +18,13 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/miscellaneous_title" >
 
+   <com.aosip.support.preferences.SystemSettingMasterSwitchPreference
+        android:key="gaming_mode_enabled"
+        android:icon="@drawable/ic_gaming_mode"
+        android:fragment="com.cherish.settings.fragments.GamingMode"
+        android:title="@string/gaming_mode_title"
+        android:summary="@string/gaming_mode_summary"
+        android:defaultValue="false" />
+
+
 </PreferenceScreen>

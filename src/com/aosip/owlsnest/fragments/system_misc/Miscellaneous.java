@@ -45,7 +45,13 @@ public class Miscellaneous extends SettingsPreferenceFragment implements
         addPreferencesFromResource(R.xml.miscellaneous);
     }
 
-    public boolean onPreferenceChange(Preference preference, Object newValue) {
+     public boolean onPreferenceChange(Preference preference, Object newValue) {
+        if (preference == mGamingMode) {
+            boolean value = (Boolean) newValue;
+            Settings.System.putInt(getActivity().getContentResolver(),
+                    Settings.System.GAMING_MODE_ENABLED, value ? 1 : 0);
+            return true;
+        }
         return false;
     }
 
