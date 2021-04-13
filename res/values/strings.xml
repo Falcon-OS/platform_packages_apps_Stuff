@@ -319,6 +319,12 @@
     <string name="lockscreen_charge_temp_unit_farhenheit">Farhenheit</string>
     <string name="lockscreen_charge_temp_unit_celsius">Celsius</string>
 
+    <!--Falcon buttons-->
+    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
+    <string name="power_button_category">Power</string>
+    <string name="volume_category">Volume</string>
+
      <!-- Volume Panel Plugin -->
     <string name="volume_panel">Volume panel style</string>
     <string name="volume_panel_aosp">AOSP</string>
