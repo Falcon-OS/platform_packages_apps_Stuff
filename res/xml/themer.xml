@@ -19,5 +19,4 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/themer_title" >
 
-
 </PreferenceScreen>
